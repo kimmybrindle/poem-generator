@@ -1,0 +1,69 @@
+body {
+  background-size: cover;
+  background-color: rgb(197, 186, 172);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+  color: rgba(242, 240, 237, 0.8);
+}
+.container {
+  margin: 120px auto;
+  max-width: 600px;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #272044;
+  text-align: center;
+}
+
+form {
+  padding: 30px;
+  background-color: rgb(230, 228, 224);
+  box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+  border-radius: 10px;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.instructions {
+  padding: 10px;
+  border: 1px solid rgba(39, 33, 66, 0.5);
+  width: 80%;
+  font-size: 17px;
+  border-radius: 40px;
+  line-height: 30px;
+  color: #272044;
+}
+
+.submit-button {
+  margin-left: 10px;
+  background-color: rgb(197, 186, 172);
+  color: rgb(242, 240, 237);
+  border: none;
+  border-radius: 40px;
+  padding: 15px 25px;
+  width: 20%;
+  line-height: 30px;
+  font-size: 17px;
+}
+
+.poem {
+  padding: 30px;
+  background-color: rgb(230, 228, 224);
+  border-radius: 10px;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  border-left: 5px solid rgb(242, 240, 237);
+  box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+  margin-bottom: 30px;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+}
