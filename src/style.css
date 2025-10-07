@@ -63,6 +63,13 @@ form {
   margin-bottom: 30px;
 }
 
+.poem {
+  color: #272044;
+}
+
+.poem strong {
+  color: rgb(197, 186, 172);
+}
 footer {
   text-align: center;
   font-size: 12px;
